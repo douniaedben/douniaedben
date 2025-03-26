@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @douniaedben.
-- 👀 I'm interested in various areas of computer science and software development.
+- 👀 I'm interested in various areas of computer science and Data Science.
 
 
 <!---
