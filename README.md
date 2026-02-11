@@ -71,7 +71,7 @@ I don’t just follow technology trends — I analyze them, design them, and bui
 
 ---
 
----
+
 
 ## 🧠 Philosophy That Drives Me
 
@@ -88,36 +88,5 @@ I don’t just follow technology trends — I analyze them, design them, and bui
 ---
 
 
-## 🧠 Philosophy That Drives Me
 
-<div align="center">
-
-💭  
-> *"The best way to predict the future is to invent it."*  
-> **— Alan Kay**
-
-<br>
-
-🔬  
-> *"Somewhere, something incredible is waiting to be known."*  
-> **— Carl Sagan**
-
-</div>
-
----
----
-
-## 🧠 Philosophy That Drives Me
-
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i><br>
-  <b>— Alan Kay</b>
-</p>
-
-<p align="center">
-  <i>"Somewhere, something incredible is waiting to be known."</i><br>
-  <b>— Carl Sagan</b>
-</p>
-
----
 
