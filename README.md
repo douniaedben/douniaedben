@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Douniazed</h1>
-<h3 align="center">AI Engineer | Data Scientist | Backend Developer | Creative Designer</h3>
+<h3 align="center">Data Science Engineering Student • AI Developer • Backend Engineer • Creative Designer</h3>
 
 ---
 
