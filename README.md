@@ -71,10 +71,19 @@ I don’t just follow technology trends — I analyze them, design them, and bui
 
 ---
 
+---
+
 ## 🧠 Philosophy That Drives Me
 
-> "The best way to predict the future is to invent it."  
-> — Alan Kay  
+<p align="center">
+  ✨ <br><br>
+  <em>"The best way to predict the future is to invent it."</em>  
+  <br><strong>— Alan Kay</strong>
+  <br><br>
+  🔬 <br><br>
+  <em>"Somewhere, something incredible is waiting to be known."</em>  
+  <br><strong>— Carl Sagan</strong>
+</p>
 
-> "Somewhere, something incredible is waiting to be known."  
-> — Carl Sagan
+---
+
