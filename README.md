@@ -56,14 +56,6 @@ I don’t just follow technology trends — I analyze them, design them, and bui
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=douniaedben&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douniaedben&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
