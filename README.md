@@ -8,6 +8,7 @@
 
 AI is my language. Data is my fuel. Creativity is my edge.
 
+🎓 4th-Year Data Science Engineering Student  
 🤖 Machine Learning enthusiast building intelligent systems  
 📊 Data scientist transforming data into strategic decisions  
 💻 Backend developer designing scalable and efficient architectures  
