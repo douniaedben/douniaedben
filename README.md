@@ -1,6 +1,9 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Douniazed</h1>
-<h3 align="center">Data Science Engineering Student • AI Developer • Backend Engineer • Creative Designer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Douniazed" />
+</h1>
+
+<h3 align="center">Data Science Engineering Student | AI Developer | Backend Engineer</h3>
+
 
 ---
 
